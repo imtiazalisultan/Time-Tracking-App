@@ -17,6 +17,7 @@ function App() {
         <Projects />
         <Tasks />
         <DailyTotal />
+        
       </TasksContext.Provider>
     </div>
   );
